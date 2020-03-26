@@ -41,8 +41,8 @@ Example records A
 aspcore-svc-discovery-app.app-namespace-2/api/values
 aspcore-svc-discovery-app.app-namespace-2.svc.cluster.local/api/values
 
-aspcore-svc-discovery-app.app-namespace-2/api/values
-aspcore-svc-discovery-app.app-namespace-2.svc.cluster.local/api/values
+aspcore-svc-discovery-app.app-namespace-1/api/values
+aspcore-svc-discovery-app.app-namespace-1.svc.cluster.local/api/values
 ```
 
 ### App.yaml

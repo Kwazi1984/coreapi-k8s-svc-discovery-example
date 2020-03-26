@@ -24,7 +24,6 @@ You can call api by using ip
 ```
 http://10.96.30.238/api/values
 http://10.102.59.133/api/values
-
 ```
 
 ### Access to app by k8s CoreDns
@@ -44,7 +43,6 @@ aspcore-svc-discovery-app.app-namespace-2.svc.cluster.local/api/values
 
 aspcore-svc-discovery-app.app-namespace-2/api/values
 aspcore-svc-discovery-app.app-namespace-2.svc.cluster.local/api/values
-
 ```
 
 ### App.yaml
